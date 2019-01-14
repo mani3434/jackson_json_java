@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "dateOfBirth": "1984-05-01",
+    "npi": "7654321555",
+    "practiceName": "Globomantics Physicians of Skokie",
+    "address": "7280 Riverside Drive",
+    "city": "Skokie",
+    "state": "IL",
+    "zip": "23065",
+    "phone": "555-123-4567"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Sanders",
+    "dateOfBirth": "1965-11-29",
+    "npi": "7267541024",
+    "practiceName": "Globomantics Physicians of Coral Springs",
+    "address": "6578 Main Street",
+    "city": "Coral Springs",
+    "state": "FL",
+    "zip": "33548",
+    "phone": "420-145-7627"
+  }
+]

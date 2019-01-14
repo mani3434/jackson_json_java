@@ -1,0 +1,130 @@
+[
+  {
+    "firstName": "Camille",
+    "lastName": "Brown",
+    "dateOfBirth": "1981-03-04",
+    "insuranceId": "1234567890",
+    "primaryPhysician": "7654321555",
+    "address": "475 Hillside Road",
+    "city": "Skokie",
+    "state": "IL",
+    "zip": "23065",
+    "phone": "330-555-9753",
+    "vitals": [
+      {
+        "date": "2018-04-25",
+        "height": "62",
+        "weight": "110",
+        "bodyIndex": "20.1",
+        "a1c": "3.4",
+        "bpSystolic": "111",
+        "bpDiastolic": "76"
+      },
+      {
+        "date": "2018-06-02",
+        "height": "62",
+        "weight": "109",
+        "bodyIndex": "19.9",
+        "a1c": "3.6",
+        "bpSystolic": "105",
+        "bpDiastolic": "70"
+      }
+    ]
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "Reid",
+    "dateOfBirth": "1958-02-13",
+    "insuranceId": "4857695843",
+    "primaryPhysician": "7654321555",
+    "address": "485 Pavilion Avenue",
+    "city": "Niles",
+    "state": "IL",
+    "zip": "23065",
+    "phone": "876-123-6754",
+    "vitals": [
+      {
+        "date": "2017-09-09",
+        "height": "64",
+        "weight": "156",
+        "bodyIndex": "26.8",
+        "a1c": "5.9",
+        "bpSystolic": "120",
+        "bpDiastolic": "87"
+      },
+      {
+        "date": "2018-01-05",
+        "height": "64",
+        "weight": "156",
+        "bodyIndex": "26.8",
+        "a1c": "6.1",
+        "bpSystolic": "125",
+        "bpDiastolic": "81"
+      }
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Henderson",
+    "dateOfBirth": "2000-08-20",
+    "insuranceId": "8472938854",
+    "primaryPhysician": "7267541024",
+    "address": "48 Memory Lane",
+    "city": "CoralSprings",
+    "state": "FL",
+    "zip": "33548",
+    "phone": "687-330-4549",
+    "vitals": [
+      {
+        "date": "2017-03-22",
+        "height": "68",
+        "weight": "145",
+        "bodyIndex": "22",
+        "a1c": "3.1",
+        "bpSystolic": "108",
+        "bpDiastolic": "73"
+      },
+      {
+        "date": "2018-03-01",
+        "height": "68",
+        "weight": "145",
+        "bodyIndex": "22",
+        "a1c": "3.2",
+        "bpSystolic": "112",
+        "bpDiastolic": "76"
+      }
+    ]
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Marie",
+    "dateOfBirth": "1991-12-24",
+    "insuranceId": "9876543210",
+    "primaryPhysician": "7267541024",
+    "address": "State Street",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33006",
+    "phone": "330-345-1919",
+    "vitals": [
+      {
+        "date": "2018-05-01",
+        "height": "63",
+        "weight": "115",
+        "bodyIndex": "20.4",
+        "a1c": "4.6",
+        "bpSystolic": "120",
+        "bpDiastolic": "78"
+      },
+      {
+        "date": "2018-07-03",
+        "height": "63",
+        "weight": "113",
+        "bodyIndex": "20",
+        "a1c": "4.8",
+        "bpSystolic": "115",
+        "bpDiastolic": "83"
+      }
+    ]
+  }
+]
